@@ -1,3 +1,4 @@
+5f2b8a7 Task 1.2: updated git log
 ade614b Task 1.1: fixed all CheckStyle issues
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
