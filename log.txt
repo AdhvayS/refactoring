@@ -1,3 +1,4 @@
+8fc6f49 Task 2.2: extracted getVolumeCredits
 7fa56f2 Task 2.1: extracted getAmount and getPlay, removed play param
 5f2b8a7 Task 1.2: updated git log
 ade614b Task 1.1: fixed all CheckStyle issues
